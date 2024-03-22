@@ -7,7 +7,7 @@
 This repository contains a Jupyter Notebook documenting an exploratory data analysis (EDA) and machine learning model for analyzing student performance data. The notebook includes comprehensive data visualization, statistical analysis, and the implementation of a linear regression model to predict math marks based on various features such as age, gender, hours studied, IQ, and others.
 
 **Contents**:
-- Jupyter Notebook: `student_performance_analysis.ipynb`
+- Jupyter Notebook: `studentdata.ipynb`
 - Dataset: `student_extended_ml_dataset2.csv`
 
 **Analysis Highlights**:
